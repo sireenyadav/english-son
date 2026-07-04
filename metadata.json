@@ -1,0 +1,6 @@
+{
+  "name": "RMS Chail",
+  "description": "An interactive mock test platform for Rashtriya Military School Chail students featuring real-time tests, category tracking metrics, and CBT-style test interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
